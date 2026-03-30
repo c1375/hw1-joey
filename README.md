@@ -22,4 +22,4 @@ e65ad64 Initial repository setup with empty project files
 
 ## Video Walkthrough
 
-[Video link here — replace this with your unlisted YouTube link]
+[Video Walkthrough](https://youtu.be/4N-ilKdSzgU)
